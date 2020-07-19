@@ -4,7 +4,7 @@ body{
 	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(bg1.jpg);
 	animation-name: anim;
   animation-duration: 3s;
-	hieght:50%;
+	
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -36,7 +36,6 @@ body{
 #container{
 	width: 500px;
 	height: 550px;
-	positiom:center;
 	margin: 20px auto;	
 	
 }
